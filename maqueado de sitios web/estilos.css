@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #3a3d47;
+    font-family: verdana;
+}
+.container{
+    width: 1200px;
+    background-color: white;
+    margin: 10px auto;
+}
+.superior{
+    background-color: #1551a1;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    width: 300px;
+    padding: 30px;
+}
+.menu{
+    float: left;
+    padding: 50px;
+}
+.opciones li{
+    float: left;
+    list-style: none;
+}
+.opciones li a{
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+}
+.opciones li a:hover{
+    background-color: #d61900;
+}
+
+.cuerpo{
+    overflow: hidden;
+}
+.caja{
+    float: left;
+    width: 380px;
+    margin: 10px;
+}
+
+
+
